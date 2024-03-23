@@ -1,0 +1,20 @@
+.list-card {
+  background-color: #ffffff;
+  background-size: cover;
+  width: 45%;
+
+  margin: 15px;
+}
+
+.place-image {
+  width: 100%;
+}
+.heading2 {
+  color: #475569;
+  padding-left: 10px;
+}
+
+.paragraph2 {
+  color: #64748b;
+  padding-left: 10px;
+}
